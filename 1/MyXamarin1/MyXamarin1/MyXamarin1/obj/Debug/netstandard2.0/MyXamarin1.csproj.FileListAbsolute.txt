@@ -1,0 +1,46 @@
+C:\Users\marks\Desktop\EPAM tasks\MyXamarin1\MyXamarin1\MyXamarin1\bin\Debug\netstandard2.0\MyXamarin1.deps.json
+C:\Users\marks\Desktop\EPAM tasks\MyXamarin1\MyXamarin1\MyXamarin1\bin\Debug\netstandard2.0\MyXamarin1.dll
+C:\Users\marks\Desktop\EPAM tasks\MyXamarin1\MyXamarin1\MyXamarin1\bin\Debug\netstandard2.0\ref\MyXamarin1.dll
+C:\Users\marks\Desktop\EPAM tasks\MyXamarin1\MyXamarin1\MyXamarin1\bin\Debug\netstandard2.0\MyXamarin1.pdb
+C:\Users\marks\Desktop\EPAM tasks\MyXamarin1\MyXamarin1\MyXamarin1\obj\Debug\netstandard2.0\MyXamarin1.csprojAssemblyReference.cache
+C:\Users\marks\Desktop\EPAM tasks\MyXamarin1\MyXamarin1\MyXamarin1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\marks\Desktop\EPAM tasks\MyXamarin1\MyXamarin1\MyXamarin1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\marks\Desktop\EPAM tasks\MyXamarin1\MyXamarin1\MyXamarin1\obj\Debug\netstandard2.0\MyXamarin1.AssemblyInfoInputs.cache
+C:\Users\marks\Desktop\EPAM tasks\MyXamarin1\MyXamarin1\MyXamarin1\obj\Debug\netstandard2.0\MyXamarin1.AssemblyInfo.cs
+C:\Users\marks\Desktop\EPAM tasks\MyXamarin1\MyXamarin1\MyXamarin1\obj\Debug\netstandard2.0\MyXamarin1.csproj.CoreCompileInputs.cache
+C:\Users\marks\Desktop\EPAM tasks\MyXamarin1\MyXamarin1\MyXamarin1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\marks\Desktop\EPAM tasks\MyXamarin1\MyXamarin1\MyXamarin1\obj\Debug\netstandard2.0\MyXamarin1.dll
+C:\Users\marks\Desktop\EPAM tasks\MyXamarin1\MyXamarin1\MyXamarin1\obj\Debug\netstandard2.0\ref\MyXamarin1.dll
+C:\Users\marks\Desktop\EPAM tasks\MyXamarin1\MyXamarin1\MyXamarin1\obj\Debug\netstandard2.0\MyXamarin1.pdb
+C:\Users\marks\Desktop\EPAM tasks\1\MyXamarin1\MyXamarin1\MyXamarin1\bin\Debug\netstandard2.0\MyXamarin1.deps.json
+C:\Users\marks\Desktop\EPAM tasks\1\MyXamarin1\MyXamarin1\MyXamarin1\bin\Debug\netstandard2.0\MyXamarin1.dll
+C:\Users\marks\Desktop\EPAM tasks\1\MyXamarin1\MyXamarin1\MyXamarin1\bin\Debug\netstandard2.0\ref\MyXamarin1.dll
+C:\Users\marks\Desktop\EPAM tasks\1\MyXamarin1\MyXamarin1\MyXamarin1\bin\Debug\netstandard2.0\MyXamarin1.pdb
+C:\Users\marks\Desktop\EPAM tasks\1\MyXamarin1\MyXamarin1\MyXamarin1\bin\Debug\netstandard2.0\MyClassLibrary1.dll
+C:\Users\marks\Desktop\EPAM tasks\1\MyXamarin1\MyXamarin1\MyXamarin1\bin\Debug\netstandard2.0\MyClassLibrary1.pdb
+C:\Users\marks\Desktop\EPAM tasks\1\MyXamarin1\MyXamarin1\MyXamarin1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\marks\Desktop\EPAM tasks\1\MyXamarin1\MyXamarin1\MyXamarin1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\marks\Desktop\EPAM tasks\1\MyXamarin1\MyXamarin1\MyXamarin1\obj\Debug\netstandard2.0\MyXamarin1.AssemblyInfoInputs.cache
+C:\Users\marks\Desktop\EPAM tasks\1\MyXamarin1\MyXamarin1\MyXamarin1\obj\Debug\netstandard2.0\MyXamarin1.AssemblyInfo.cs
+C:\Users\marks\Desktop\EPAM tasks\1\MyXamarin1\MyXamarin1\MyXamarin1\obj\Debug\netstandard2.0\MyXamarin1.csproj.CoreCompileInputs.cache
+C:\Users\marks\Desktop\EPAM tasks\1\MyXamarin1\MyXamarin1\MyXamarin1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\marks\Desktop\EPAM tasks\1\MyXamarin1\MyXamarin1\MyXamarin1\obj\Debug\netstandard2.0\MyXamarin1.csproj.CopyComplete
+C:\Users\marks\Desktop\EPAM tasks\1\MyXamarin1\MyXamarin1\MyXamarin1\obj\Debug\netstandard2.0\MyXamarin1.dll
+C:\Users\marks\Desktop\EPAM tasks\1\MyXamarin1\MyXamarin1\MyXamarin1\obj\Debug\netstandard2.0\ref\MyXamarin1.dll
+C:\Users\marks\Desktop\EPAM tasks\1\MyXamarin1\MyXamarin1\MyXamarin1\obj\Debug\netstandard2.0\MyXamarin1.pdb
+C:\Users\marks\Desktop\EPAM_tasks\1\MyXamarin1\MyXamarin1\MyXamarin1\bin\Debug\netstandard2.0\MyXamarin1.deps.json
+C:\Users\marks\Desktop\EPAM_tasks\1\MyXamarin1\MyXamarin1\MyXamarin1\bin\Debug\netstandard2.0\MyXamarin1.dll
+C:\Users\marks\Desktop\EPAM_tasks\1\MyXamarin1\MyXamarin1\MyXamarin1\bin\Debug\netstandard2.0\ref\MyXamarin1.dll
+C:\Users\marks\Desktop\EPAM_tasks\1\MyXamarin1\MyXamarin1\MyXamarin1\bin\Debug\netstandard2.0\MyXamarin1.pdb
+C:\Users\marks\Desktop\EPAM_tasks\1\MyXamarin1\MyXamarin1\MyXamarin1\bin\Debug\netstandard2.0\MyClassLibrary1.dll
+C:\Users\marks\Desktop\EPAM_tasks\1\MyXamarin1\MyXamarin1\MyXamarin1\bin\Debug\netstandard2.0\MyClassLibrary1.pdb
+C:\Users\marks\Desktop\EPAM_tasks\1\MyXamarin1\MyXamarin1\MyXamarin1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\marks\Desktop\EPAM_tasks\1\MyXamarin1\MyXamarin1\MyXamarin1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\marks\Desktop\EPAM_tasks\1\MyXamarin1\MyXamarin1\MyXamarin1\obj\Debug\netstandard2.0\MyXamarin1.AssemblyInfoInputs.cache
+C:\Users\marks\Desktop\EPAM_tasks\1\MyXamarin1\MyXamarin1\MyXamarin1\obj\Debug\netstandard2.0\MyXamarin1.AssemblyInfo.cs
+C:\Users\marks\Desktop\EPAM_tasks\1\MyXamarin1\MyXamarin1\MyXamarin1\obj\Debug\netstandard2.0\MyXamarin1.csproj.CoreCompileInputs.cache
+C:\Users\marks\Desktop\EPAM_tasks\1\MyXamarin1\MyXamarin1\MyXamarin1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\marks\Desktop\EPAM_tasks\1\MyXamarin1\MyXamarin1\MyXamarin1\obj\Debug\netstandard2.0\MyXamarin1.csproj.CopyComplete
+C:\Users\marks\Desktop\EPAM_tasks\1\MyXamarin1\MyXamarin1\MyXamarin1\obj\Debug\netstandard2.0\MyXamarin1.dll
+C:\Users\marks\Desktop\EPAM_tasks\1\MyXamarin1\MyXamarin1\MyXamarin1\obj\Debug\netstandard2.0\ref\MyXamarin1.dll
+C:\Users\marks\Desktop\EPAM_tasks\1\MyXamarin1\MyXamarin1\MyXamarin1\obj\Debug\netstandard2.0\MyXamarin1.pdb

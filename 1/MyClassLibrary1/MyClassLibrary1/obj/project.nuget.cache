@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dxWc6x+SUf+ppeKXQZwsaeA/iNgjaeaCCVgwVpAwYxz2oQspd5d2T9d1hot2pCU5b+OcLPsi8YJJovmG+82gHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marks\\Desktop\\На всякий случай\\1\\MyClassLibrary1\\MyClassLibrary1\\MyClassLibrary1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marks\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\marks\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

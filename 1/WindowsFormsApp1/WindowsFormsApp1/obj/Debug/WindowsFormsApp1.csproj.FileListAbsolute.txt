@@ -1,0 +1,36 @@
+C:\Users\marks\Desktop\EPAM tasks\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\marks\Desktop\EPAM tasks\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\marks\Desktop\EPAM tasks\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\marks\Desktop\EPAM tasks\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\marks\Desktop\EPAM tasks\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\marks\Desktop\EPAM tasks\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\marks\Desktop\EPAM tasks\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\marks\Desktop\EPAM tasks\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\marks\Desktop\EPAM tasks\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\marks\Desktop\EPAM tasks\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\marks\Desktop\EPAM tasks\1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\marks\Desktop\EPAM tasks\1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\marks\Desktop\EPAM tasks\1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\marks\Desktop\EPAM tasks\1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MyClassLibrary1.dll
+C:\Users\marks\Desktop\EPAM tasks\1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MyClassLibrary1.pdb
+C:\Users\marks\Desktop\EPAM tasks\1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\marks\Desktop\EPAM tasks\1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\marks\Desktop\EPAM tasks\1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\marks\Desktop\EPAM tasks\1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\marks\Desktop\EPAM tasks\1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\marks\Desktop\EPAM tasks\1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\marks\Desktop\EPAM tasks\1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\marks\Desktop\EPAM tasks\1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\marks\Desktop\EPAM_tasks\1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\marks\Desktop\EPAM_tasks\1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\marks\Desktop\EPAM_tasks\1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\marks\Desktop\EPAM_tasks\1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MyClassLibrary1.dll
+C:\Users\marks\Desktop\EPAM_tasks\1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MyClassLibrary1.pdb
+C:\Users\marks\Desktop\EPAM_tasks\1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\marks\Desktop\EPAM_tasks\1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\marks\Desktop\EPAM_tasks\1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\marks\Desktop\EPAM_tasks\1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\marks\Desktop\EPAM_tasks\1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\marks\Desktop\EPAM_tasks\1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\marks\Desktop\EPAM_tasks\1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\marks\Desktop\EPAM_tasks\1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
